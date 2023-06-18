@@ -4,7 +4,7 @@ from passlib.context import CryptContext
 
 from jose import JWTError, jwt
 
-from models import CourseUsers, User
+from models import User
 
 SECRET_KEY = "09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e8d3e7"
 ALGORITHM = "HS256"
@@ -39,13 +39,13 @@ def decode_token(token: str):
 def seed(session):
     admin = session.query(User).filter_by(username="admin").first()
     if  not admin:
-        admin = User(username="admin", fullname="admin",password=get_password_hash("admin"), account_type=2)
+        admin = User(username="admin", fullname="admin",password=get_password_hash("admin"), account_type=2, status=1)
         session.add(admin)
         session.commit()
     
     user = session.query(User).filter_by(username="user").first()
     if  not user:
-        user = User(username="user", fullname="user",password=get_password_hash("user"), account_type=1)
+        user = User(username="user", fullname="user",password=get_password_hash("user"), account_type=1, status=1)
         session.add(user)
         session.commit()
 

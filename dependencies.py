@@ -5,7 +5,7 @@ from sqlalchemy.orm import Session
 from fastapi.security import OAuth2PasswordBearer
 from db import get_session
 from models import User
-from services import auth, user, device
+from services import auth, user
 from jose import JWTError
 
 
@@ -37,6 +37,7 @@ async def get_current_user(token: str = Depends(oauth2_scheme), session: Session
         raise credentials_exception
     return user_data
 
-async def admin_middlweware(current_user: User = Depends(get_current_user)):
+async def admin_middleware(current_user: User = Depends(get_current_user)):
     if current_user.account_type != 2:
         raise HTTPException(status_code=403, detail="You are not admin")
+    return current_user

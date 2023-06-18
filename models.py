@@ -28,7 +28,7 @@ class Category(Base):
     name = Column(String(200), nullable=False)
     description = Column(String(1000), nullable=False)
     
-    products = relationship('Product', backref='category')
+    # products = relationship('Product')
     
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
@@ -41,10 +41,8 @@ class Product(Base):
     description = Column(String(1000), nullable=False)
     price = Column(Float, nullable=False)
     image = Column(String(1000), nullable=False)
-    
     category_id = Column(Integer, ForeignKey('categories.id'))
-    
-    category = relationship('Category', backref='products')
+    category = relationship('Category')
     
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
@@ -117,8 +115,8 @@ class CartProduct(Base):
     product_id = Column(Integer, ForeignKey('products.id'))
     quantity = Column(Integer, nullable=False)
     
-    user = relationship('User', backref='cart_products')
-    product = relationship('Product', backref='cart_products')
+    user = relationship('User')
+    product = relationship('Product')
     
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
