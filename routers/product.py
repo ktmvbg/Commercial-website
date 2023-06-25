@@ -19,7 +19,6 @@ async def create_product(input: CreateProductDto, db: Session = Depends(get_db),
 @router.get("/")
 async def get_products(request: Request, db: Session = Depends(get_db)):
     query = FilterProductsDto(**request.query_params)
-    print(query)
     result = product.filter_products(db, query)
     return result
 
