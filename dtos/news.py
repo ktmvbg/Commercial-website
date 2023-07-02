@@ -28,11 +28,23 @@ class GetNewsDto(PagedParamsDto):
     to_date: Optional[datetime] = None
     user_id: Optional[int] = None
 
+class GetNewsCommentDto(PagedParamsDto):
+    user_id: Optional[int] = None
+
 class NewsOutput(BaseModel):
     id: int
     title: str
     content: str
     image: str
+    created_at: datetime
+    updated_at: Optional[datetime] = None
+    user: UserOutput
+    class Config:
+        orm_mode = True
+
+class CommentOutput(BaseModel):
+    id: int
+    content: str
     created_at: datetime
     updated_at: Optional[datetime] = None
     user: UserOutput

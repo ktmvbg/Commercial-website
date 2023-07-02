@@ -1,7 +1,7 @@
 
 from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
-from routers import auth, product, cart, order, admin_order, news
+from routers import auth, product, cart, order, admin_order, news, news_comment
 
 app = FastAPI()
 
@@ -24,3 +24,4 @@ app.include_router(cart.router)
 app.include_router(order.router)
 app.include_router(admin_order.router)
 app.include_router(news.router)
+app.include_router(news_comment.router)

@@ -41,7 +41,7 @@ class Product(Base):
     description = Column(String(1000), nullable=False)
     price = Column(Float, nullable=False)
     image = Column(String(1000), nullable=False)
-    category_id = Column(Integer, ForeignKey('categories.id'))
+    category_id = Column(Integer, ForeignKey('categories.id',  ondelete='SET NULL'))
     category = relationship('Category')
     
     created_at = Column(DateTime(timezone=True), server_default=func.now())
@@ -51,7 +51,7 @@ class ProductDetail(Base):
     __tablename__ = 'product_details'
     
     id = Column(Integer, primary_key=True)
-    product_id = Column(Integer, ForeignKey('products.id'))
+    product_id = Column(Integer, ForeignKey('products.id', ondelete='CASCADE'))
     name = Column(String(200), nullable=False)
     value = Column(String(1000), nullable=False)
     stock_quantity = Column(Integer, nullable=False)
@@ -66,7 +66,7 @@ class Order(Base):
     
     id = Column(Integer, primary_key=True)
     order_key = Column(String(1000), nullable=False)
-    user_id = Column(Integer, ForeignKey('users.id'))
+    user_id = Column(Integer, ForeignKey('users.id', ondelete='CASCADE'))
     
     total = Column(Float, nullable=False)
     status = Column(Integer, nullable=False) # 1 = pending, 2 = completed, 3 = cancelled
@@ -80,8 +80,8 @@ class OrderProduct(Base):
     __tablename__ = 'order_products'
     
     id = Column(Integer, primary_key=True)
-    order_id = Column(Integer, ForeignKey('orders.id'))
-    product_id = Column(Integer, ForeignKey('products.id'))
+    order_id = Column(Integer, ForeignKey('orders.id', ondelete='CASCADE'))
+    product_id = Column(Integer, ForeignKey('products.id', ondelete='CASCADE'))
     price_per_unit = Column(Float, nullable=False)
     quantity = Column(Integer, nullable=False)
     total = Column(Float, nullable=False)
@@ -96,8 +96,8 @@ class OrderProductDetail(Base):
     __tablename__ = 'order_product_details'
     
     id = Column(Integer, primary_key=True)
-    order_product_id = Column(Integer, ForeignKey('order_products.id'))
-    product_detail_id = Column(Integer, ForeignKey('product_details.id'))
+    order_product_id = Column(Integer, ForeignKey('order_products.id', ondelete='CASCADE'))
+    product_detail_id = Column(Integer, ForeignKey('product_details.id', ondelete='CASCADE'))
     quantity = Column(Integer, nullable=False)
     
     order_product = relationship('OrderProduct', backref='order_product_details')
@@ -127,8 +127,8 @@ class NewsComment(Base):
     id = Column(Integer, primary_key=True)
     content = Column(String(1000), nullable=False)
     
-    user_id = Column(Integer, ForeignKey('users.id'))
-    news_id = Column(Integer, ForeignKey('news.id'))
+    user_id = Column(Integer, ForeignKey('users.id', ondelete='CASCADE'))
+    news_id = Column(Integer, ForeignKey('news.id', ondelete='CASCADE'))
     
     user = relationship('User')
     news = relationship('News')
@@ -142,7 +142,7 @@ class CartProduct(Base):
     
     id = Column(Integer, primary_key=True)
     user_id = Column(Integer, ForeignKey('users.id'))
-    product_id = Column(Integer, ForeignKey('products.id'))
+    product_id = Column(Integer, ForeignKey('products.id', ondelete='CASCADE'))
     quantity = Column(Integer, nullable=False)
     
     user = relationship('User')
