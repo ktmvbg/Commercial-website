@@ -3,17 +3,14 @@ from typing import List, Optional
 from models import User
 from pydantic import BaseModel
 
-class UserOutput:
+class UserOutput(BaseModel):
     id: int
     username: str
     fullname: str
     account_type: int
 
-    def __init__(self, user: User):
-        self.id = user.id
-        self.username = user.username
-        self.fullname = user.fullname
-        self.account_type = user.account_type
+    class Config:
+        orm_mode = True
 
 class CreateUserInput(BaseModel):
     username: str

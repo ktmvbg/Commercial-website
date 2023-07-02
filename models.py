@@ -107,6 +107,36 @@ class OrderProductDetail(Base):
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
 
 
+class News(Base):
+    __tablename__ = 'news'
+    
+    id = Column(Integer, primary_key=True)
+    title = Column(String(200), nullable=False)
+    content = Column(String(1000), nullable=False)
+    image = Column(String(1000), nullable=False)
+    
+    user_id = Column(Integer, ForeignKey('users.id'))
+    user = relationship('User')
+    
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+
+class NewsComment(Base):
+    __tablename__ = 'news_comments'
+    
+    id = Column(Integer, primary_key=True)
+    content = Column(String(1000), nullable=False)
+    
+    user_id = Column(Integer, ForeignKey('users.id'))
+    news_id = Column(Integer, ForeignKey('news.id'))
+    
+    user = relationship('User')
+    news = relationship('News')
+    
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+
+
 class CartProduct(Base):
     __tablename__ = 'cart_products'
     

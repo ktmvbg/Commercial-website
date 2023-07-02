@@ -51,7 +51,7 @@ async def update_profile(input: UpdateUserInput, session: Session = Depends(get_
 
 @router.get("/me")
 async def get_profile(current_user: User = Depends(get_current_user)):
-    return UserOutput(current_user)
+    return UserOutput.from_orm(current_user)
 
 @router.get("/seed")
 async def create_user(session: Session = Depends(get_db)):
