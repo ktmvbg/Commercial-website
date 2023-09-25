@@ -1,0 +1,11 @@
+fastapi
+sqlalchemy
+uvicorn
+bcrypt
+passlib
+python-jose
+pymysql
+psycopg2
+openai
+langchain
+langchain_experimental

@@ -1,0 +1,1681 @@
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Could you mention the one and three-month subscription prices for Netflix shared slot?
+Agent:
+Response: At Galactic Premium, we are thrilled to offer the Netflix shared slot at two competitive price points: 75000 VND for a one-month subscription and 210000 VND for a three-month subscription.
+Expected Response: At Galactic Premium, we are thrilled to offer the Netflix shared slot at two competitive price points: 75000 VND for a one-month subscription and 210000 VND for a three-month subscription.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: How much does Netflix shared slot cost for one and three months?
+Agent:
+Response:  At Galactic Premium, we are thrilled to offer the Netflix shared slot at two competitive price points: 75000 VND for a one-month subscription and 210000 VND for a three-month subscription.
+Expected Response: At Galactic Premium, we are thrilled to offer the Netflix shared slot at two competitive price points: 75000 VND for a one-month subscription and 210000 VND for a three-month subscription.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Cost of one and three-month Netflix shared slot?
+Agent:
+Response:  At Galactic Premium, we are thrilled to offer the Netflix shared slot at two competitive price points: 75000 VND for a one-month subscription and 210000 VND for a three-month subscription.
+Expected Response: At Galactic Premium, we are thrilled to offer the Netflix shared slot at two competitive price points: 75000 VND for a one-month subscription and 210000 VND for a three-month subscription.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Can you state the one-month subscription price for Netflix shared slot?
+Agent:
+Response:  I'm pleased to inform you that at Galactic Premium, a one-month subscription to the Netflix shared slot is conveniently priced at 75000 VND.
+Expected Response: I'm pleased to inform you that at Galactic Premium, a one-month subscription to the Netflix shared slot is conveniently priced at 75000 VND.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: What is the charge for one month of Netflix shared slot?
+Agent:
+Response:  I'm pleased to inform you that at Galactic Premium, a one-month subscription to the Netflix shared slot is conveniently priced at 75000 VND.
+Expected Response: I'm pleased to inform you that at Galactic Premium, a one-month subscription to the Netflix shared slot is conveniently priced at 75000 VND.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: One-month Netflix shared slot charge?
+Agent:
+Response: I'm pleased to inform you that at Galactic Premium, a one-month subscription to the Netflix shared slot is conveniently priced at 75000 VND.
+Expected Response: I'm pleased to inform you that at Galactic Premium, a one-month subscription to the Netflix shared slot is conveniently priced at 75000 VND.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Can you state the three-month subscription price for Netflix shared slot?
+Agent:
+Response:  We at Galactic Premium are excited to offer a three-month subscription to the Netflix shared slot at the great price of 210000 VND.
+Expected Response: We at Galactic Premium are excited to offer a three-month subscription to the Netflix shared slot at the great price of 210000 VND.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: What is the charge for three months of Netflix shared slot?
+Agent:
+Response:  We at Galactic Premium are excited to offer a three-month subscription to the Netflix shared slot at the great price of 210000 VND.
+Expected Response: We at Galactic Premium are excited to offer a three-month subscription to the Netflix shared slot at the great price of 210000 VND.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Three months Netflix shared slot charge?
+Agent:
+Response: We at Galactic Premium are excited to offer a three-month subscription to the Netflix shared slot at the great price of 210000 VND.
+Expected Response: We at Galactic Premium are excited to offer a three-month subscription to the Netflix shared slot at the great price of 210000 VND.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Can you state the monthly retailer charge for Netflix shared slot?
+Agent:
+Response:  At Galactic Premium, we value our retailers and offer the Netflix shared slot to them at a special price of 65000 VND per month.
+Expected Response: At Galactic Premium, we value our retailers and offer the Netflix shared slot to them at a special price of 65000 VND per month.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: What is the monthly retailer charge for Netflix shared slot?
+Agent:
+Response:  At Galactic Premium, we value our retailers and offer the Netflix shared slot to them at a special price of 65000 VND per month.
+Expected Response: At Galactic Premium, we value our retailers and offer the Netflix shared slot to them at a special price of 65000 VND per month.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Monthly retailer charge for Netflix shared slot?
+Agent:
+Response: At Galactic Premium, we value our retailers and offer the Netflix shared slot to them at a special price of 65000 VND per month.
+Expected Response: At Galactic Premium, we value our retailers and offer the Netflix shared slot to them at a special price of 65000 VND per month.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Can you state if there are bulk purchase offers for retailers for Netflix shared slot?
+Agent:
+Response: Currently at Galactic Premium, we do not offer bulk purchase discounts for retailers interested in acquiring Netflix shared slots.
+Expected Response: Currently at Galactic Premium, we do not offer bulk purchase discounts for retailers interested in acquiring Netflix shared slots.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Are there offers for retailers for bulk purchases of Netflix shared slot?
+Agent:
+Response:  Currently at Galactic Premium, we do not offer bulk purchase discounts for retailers interested in acquiring Netflix shared slots.
+Expected Response: Currently at Galactic Premium, we do not offer bulk purchase discounts for retailers interested in acquiring Netflix shared slots.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Bulk purchase offers for retailers on Netflix shared slot?
+Agent:
+Response: Currently at Galactic Premium, we do not offer bulk purchase discounts for retailers interested in acquiring Netflix shared slots.
+Expected Response: Currently at Galactic Premium, we do not offer bulk purchase discounts for retailers interested in acquiring Netflix shared slots.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Can you state if 6 or 12-month subscriptions are available at the 3-month rate for Netflix shared slot?
+Agent:
+Response: Galactic Premium offers the flexibility for customers to subscribe for 6 or 12 months at the same rate as the three-month subscription, totaling 210000 VND per 3 months.
+Expected Response: Galactic Premium offers the flexibility for customers to subscribe for 6 or 12 months at the same rate as the three-month subscription, totaling 210000 VND per 3 months.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: Is it feasible to get 6 or 12-month subscriptions at the 3-month rate for Netflix shared slot?
+Agent:
+Response: Galactic Premium offers the flexibility for customers to subscribe for 6 or 12 months at the same rate as the three-month subscription, totaling 210000 VND per 3 months.
+Expected Response: Galactic Premium offers the flexibility for customers to subscribe for 6 or 12 months at the same rate as the three-month subscription, totaling 210000 VND per 3 months.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Customer: 6 or 12-month subscriptions at 3-month rate feasibility for Netflix shared slot?
+Agent:
+Response: Galactic Premium offers the flexibility for customers to subscribe for 6 or 12 months at the same rate as the three-month subscription, totaling 210000 VND per 3 months.
+Expected Response: Galactic Premium offers the flexibility for customers to subscribe for 6 or 12 months at the same rate as the three-month subscription, totaling 210000 VND per 3 months.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: General
+Customer: Could you please confirm the plan category of the Netflix shared slot?
+Agent:
+Response:  The Netflix shared slot comes with the premium plan, which is the highest plan available.
+Expected Response: The Netflix shared slot comes with the premium plan, which is the highest plan available.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: General
+Customer: Can you specify the Netflix shared slot plan?
+Agent:
+Response:  The Netflix shared slot comes with the premium plan, which is the highest plan available.
+Expected Response: The Netflix shared slot comes with the premium plan, which is the highest plan available.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: General
+Customer: Netflix shared slot plan category?
+Agent:
+Response: The Netflix shared slot comes with the premium plan, which is the highest plan available.
+Expected Response: The Netflix shared slot comes with the premium plan, which is the highest plan available.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: General
+Customer: Could you please verify if I can view content in 4K UltraHD with the Netflix shared slot?
+Agent:
+Response:  With the Netflix shared slot, you have the ability to watch content in 4K UltraHD.
+Expected Response: With the Netflix shared slot, you have the ability to watch content in 4K UltraHD.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: General
+Customer: Can you mention if 4K UltraHD is supported in the Netflix shared slot?
+Agent:
+Response:  With the Netflix shared slot, you have the ability to watch content in 4K UltraHD.
+Expected Response: With the Netflix shared slot, you have the ability to watch content in 4K UltraHD.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: General
+Customer: Supported 4K UltraHD on Netflix shared slot?
+Agent:
+Response: With the Netflix shared slot, you have the ability to watch content in 4K UltraHD.
+Expected Response: With the Netflix shared slot, you have the ability to watch content in 4K UltraHD.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: General
+Customer: Could you let me know if the Netflix shared slot supports downloading?
+Agent:
+Response:  The Netflix shared slot allows you to download content for offline viewing.
+Expected Response: The Netflix shared slot allows you to download content for offline viewing.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: General
+Customer: Can you specify if the Netflix shared slot has a download option?
+Agent:
+Response:  The Netflix shared slot allows you to download content for offline viewing.
+Expected Response: The Netflix shared slot allows you to download content for offline viewing.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: General
+Customer: Download support on Netflix shared slot?
+Agent:
+Response: The Netflix shared slot allows you to download content for offline viewing.
+Expected Response: The Netflix shared slot allows you to download content for offline viewing.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Could you tell me about the device allowance on the Netflix shared slot?
+Agent:
+Response: You are allowed to use one device with a Netflix shared slot.
+Expected Response: You are allowed to use one device with a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Can you mention the number of devices permitted with a Netflix shared slot?
+Agent:
+Response: You are allowed to use one device with a Netflix shared slot.
+Expected Response: You are allowed to use one device with a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Devices permitted on Netflix shared slot?
+Agent:
+Response: You are allowed to use one device with a Netflix shared slot.
+Expected Response: You are allowed to use one device with a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Can you specify if the Netflix shared slot can be accessed via a television?
+Agent:
+Response:  Yes, you can use the Netflix shared slot on a TV.
+Expected Response: Yes, you can use the Netflix shared slot on a TV.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Is it feasible to use the Netflix shared slot on a television?
+Agent:
+Response: Yes, you can use the Netflix shared slot on a TV.
+Expected Response: Yes, you can use the Netflix shared slot on a TV.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Netflix shared slot on television feasible?
+Agent:
+Response: Yes, you can use the Netflix shared slot on a TV.
+Expected Response: Yes, you can use the Netflix shared slot on a TV.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Could you let me know if the Netflix shared slot can be shared with friends?
+Agent:
+Response: No, sharing the Netflix shared slot with friends is not allowed.
+Expected Response: No, sharing the Netflix shared slot with friends is not allowed.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Is it allowed to share the Netflix shared slot with friends?
+Agent:
+Response: No, sharing the Netflix shared slot with friends is not allowed.
+Expected Response: No, sharing the Netflix shared slot with friends is not allowed.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Netflix shared slot shareable with friends?
+Agent:
+Response: No, sharing the Netflix shared slot with friends is not allowed.
+Expected Response: No, sharing the Netflix shared slot with friends is not allowed.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Could you let me know the allowed number of profiles in the available slots of a Netflix shared slot?
+Agent:
+Response:  You are allowed to have one profile in the available slots of a Netflix shared slot.
+Expected Response: You are allowed to have one profile in the available slots of a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: How many profiles can be set up in the available slots of a Netflix shared slot?
+Agent:
+Response:  You are allowed to have one profile in the available slots of a Netflix shared slot.
+Expected Response: You are allowed to have one profile in the available slots of a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Profile setup allowance in Netflix shared slot?
+Agent:
+Response: You are allowed to have one profile in the available slots of a Netflix shared slot.
+Expected Response: You are allowed to have one profile in the available slots of a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Could you let me know if the Netflix shared slot permits the use of other's profiles?
+Agent:
+Response: No, using other's profiles is not permitted in a Netflix shared slot.
+Expected Response: No, using other's profiles is not permitted in a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Is it permissible to use other's profiles with a Netflix shared slot?
+Agent:
+Response: No, using other's profiles is not permitted in a Netflix shared slot.
+Expected Response: No, using other's profiles is not permitted in a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Use other's profiles permissible in Netflix shared slot?
+Agent:
+Response: No, using other's profiles is not permitted in a Netflix shared slot.
+Expected Response: No, using other's profiles is not permitted in a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Could you let me know if setting a password to my profile is permissible in a Netflix shared slot?
+Agent:
+Response: Yes, you are able to set a password to your own profile in a Netflix shared slot.
+Expected Response: Yes, you are able to set a password to your own profile in a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Can you confirm if I can secure my profile with a password in a Netflix shared slot?
+Agent:
+Response: Yes, you are able to set a password to your own profile in a Netflix shared slot.
+Expected Response: Yes, you are able to set a password to your own profile in a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Usage
+Customer: Secure profile with password permissible in Netflix shared slot?
+Agent:
+Response: Yes, you are able to set a password to your own profile in a Netflix shared slot.
+Expected Response: Yes, you are able to set a password to your own profile in a Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Policy
+Customer: Could you provide an overview of the error rate for the Netflix shared slot?
+Agent:
+Response: The Netflix shared slot experiences errors very rarely; it is considered a highly stable product.
+Expected Response: The Netflix shared slot experiences errors very rarely; it is considered a highly stable product.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Policy
+Customer: Can you specify the frequency of errors for the Netflix shared slot?
+Agent:
+Response: The Netflix shared slot experiences errors very rarely; it is considered a highly stable product.
+Expected Response: The Netflix shared slot experiences errors very rarely; it is considered a highly stable product.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Policy
+Customer: Overview of error rate in Netflix shared slot?
+Agent:
+Response: The Netflix shared slot experiences errors very rarely; it is considered a highly stable product.
+Expected Response: The Netflix shared slot experiences errors very rarely; it is considered a highly stable product.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Policy
+Customer: Could you provide insights on the refund process for the Netflix shared slot?
+Agent:
+Response: Refunds are not available for the Netflix shared slot.
+Expected Response: Refunds are not available for the Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Policy
+Customer: Can you confirm the refund policies for the Netflix shared slot?
+Agent:
+Response: Refunds are not available for the Netflix shared slot.
+Expected Response: Refunds are not available for the Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Policy
+Customer: Netflix shared slot refund policies?
+Agent:
+Response: Refunds are not available for the Netflix shared slot.
+Expected Response: Refunds are not available for the Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Policy
+Customer: Could you provide insights on how the 1 on 1 exchange works if there's an error with the Netflix shared slot?
+Agent:
+Response: In the event of an error, a 1 on 1 exchange is available for the Netflix shared slot.
+Expected Response: In the event of an error, a 1 on 1 exchange is available for the Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Policy
+Customer: Can you confirm the terms of the 1 on 1 exchange in case of errors with the Netflix shared slot?
+Agent:
+Response: In the event of an error, a 1 on 1 exchange is available for the Netflix shared slot.
+Expected Response: In the event of an error, a 1 on 1 exchange is available for the Netflix shared slot.
+True
+Chat: Summary: Netflix Shared Slot
+
+Specific information: Policy
+Customer: Terms for 1 on 1 exchange during errors in Netflix shared slot?
+Agent:
+Response: In the event of an error, a 1 on 1 exchange is available for the Netflix shared slot.
+Expected Response: In the event of an error, a 1 on 1 exchange is available for the Netflix shared slot.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Can you provide the general annual cost of the Spotify Premium upgrade?
+Agent:
+Response: The annual pricing for a Spotify Premium upgrade at Galactic Premium Store is 289000 VND.
+Expected Response: The annual pricing for a Spotify Premium upgrade at Galactic Premium Store is 289000 VND.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: What is the general annual cost for the Spotify Premium upgrade?
+Agent:
+Response: The annual pricing for a Spotify Premium upgrade at Galactic Premium Store is 289000 VND.
+Expected Response: The annual pricing for a Spotify Premium upgrade at Galactic Premium Store is 289000 VND.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Annual cost for Spotify Premium upgrade?
+Agent:
+Response: The annual pricing for a Spotify Premium upgrade at Galactic Premium Store is 289000 VND.
+Expected Response: The annual pricing for a Spotify Premium upgrade at Galactic Premium Store is 289000 VND.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Can you confirm if there is a one-month pricing for the Spotify Premium upgrade?
+Agent:
+Response: I'm sorry, but Galactic Premium Store does not offer a one-month subscription option for the Spotify Premium upgrade.
+Expected Response: I'm sorry, but Galactic Premium Store does not offer a one-month subscription option for the Spotify Premium upgrade.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Is there a one-month pricing for the Spotify Premium upgrade?
+Agent:
+Response: I'm sorry, but Galactic Premium Store does not offer a one-month subscription option for the Spotify Premium upgrade.
+Expected Response: I'm sorry, but Galactic Premium Store does not offer a one-month subscription option for the Spotify Premium upgrade.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: One-month pricing for Spotify Premium upgrade?
+Agent:
+Response: I'm sorry, but Galactic Premium Store does not offer a one-month subscription option for the Spotify Premium upgrade.
+Expected Response: I'm sorry, but Galactic Premium Store does not offer a one-month subscription option for the Spotify Premium upgrade.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Can you tell me if there's a discount when buying the Spotify Premium upgrade in bulk?
+Agent:
+Response: I'm sorry, but Galactic Premium Store does not offer a bulk purchase discount for the Spotify Premium upgrade.
+Expected Response: I'm sorry, but Galactic Premium Store does not offer a bulk purchase discount for the Spotify Premium upgrade.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Is there a discount for bulk purchases of Spotify Premium upgrades?
+Agent:
+Response: I'm sorry, but Galactic Premium Store does not offer a bulk purchase discount for the Spotify Premium upgrade.
+Expected Response: I'm sorry, but Galactic Premium Store does not offer a bulk purchase discount for the Spotify Premium upgrade.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Bulk purchase Spotify Premium discount?
+Agent:
+Response: I'm sorry, but Galactic Premium Store does not offer a bulk purchase discount for the Spotify Premium upgrade.
+Expected Response: I'm sorry, but Galactic Premium Store does not offer a bulk purchase discount for the Spotify Premium upgrade.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Could you please clarify if there's a bulk purchase facility for Spotify Premium upgrades?
+Agent:
+Response: Unfortunately, Galactic Premium Store does not offer bulk purchases for Spotify Premium upgrades as it is hard to guarantee the service for more than one year.
+Expected Response: Unfortunately, Galactic Premium Store does not offer bulk purchases for Spotify Premium upgrades as it is hard to guarantee the service for more than one year.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Is there a facility for bulk purchasing Spotify Premium upgrades?
+Agent:
+Response: Unfortunately, Galactic Premium Store does not offer bulk purchases for Spotify Premium upgrades as it is hard to guarantee the service for more than one year.
+Expected Response: Unfortunately, Galactic Premium Store does not offer bulk purchases for Spotify Premium upgrades as it is hard to guarantee the service for more than one year.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Bulk purchase facility for Spotify Premium?
+Agent:
+Response: Unfortunately, Galactic Premium Store does not offer bulk purchases for Spotify Premium upgrades as it is hard to guarantee the service for more than one year.
+Expected Response: Unfortunately, Galactic Premium Store does not offer bulk purchases for Spotify Premium upgrades as it is hard to guarantee the service for more than one year.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Could you provide the pricing details for retailers for a yearly Spotify Premium upgrade?
+Agent:
+Response: The one-year subscription rate for retailers at Galactic Premium Store for a Spotify Premium upgrade is priced at 200000 VND.
+Expected Response: The one-year subscription rate for retailers at Galactic Premium Store for a Spotify Premium upgrade is priced at 200000 VND.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: What are the pricing details for retailers for a yearly Spotify Premium upgrade?
+Agent:
+Response: The one-year subscription rate for retailers at Galactic Premium Store for a Spotify Premium upgrade is priced at 200000 VND.
+Expected Response: The one-year subscription rate for retailers at Galactic Premium Store for a Spotify Premium upgrade is priced at 200000 VND.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Yearly Spotify Premium retailer pricing?
+Agent:
+Response: The one-year subscription rate for retailers at Galactic Premium Store for a Spotify Premium upgrade is priced at 200000 VND.
+Expected Response: The one-year subscription rate for retailers at Galactic Premium Store for a Spotify Premium upgrade is priced at 200000 VND.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Could you please verify if there is any discount for retailers when buying Spotify Premium Upgrade in bulk?
+Agent:
+Response: Unfortunately, there is no bulk purchase discount available for retailers at Galactic Premium Store.
+Expected Response: Unfortunately, there is no bulk purchase discount available for retailers at Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Can you confirm if there is a bulk purchase discount for retailers for Spotify Premium Upgrade?
+Agent:
+Response: Unfortunately, there is no bulk purchase discount available for retailers at Galactic Premium Store.
+Expected Response: Unfortunately, there is no bulk purchase discount available for retailers at Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Customer: Retailer bulk discount for Spotify Premium Upgrade?
+Agent:
+Response: Unfortunately, there is no bulk purchase discount available for retailers at Galactic Premium Store.
+Expected Response: Unfortunately, there is no bulk purchase discount available for retailers at Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: Could you please elucidate the method of Spotify Premium Upgrade?
+Agent:
+Response: At Galactic Premium Store, the Spotify Premium upgrade works by adding the customer's account to a family plan.
+Expected Response: At Galactic Premium Store, the Spotify Premium upgrade works by adding the customer's account to a family plan.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: Can you explain the Spotify Premium Upgrade method?
+Agent:
+Response: At Galactic Premium Store, the Spotify Premium upgrade works by adding the customer's account to a family plan.
+Expected Response: At Galactic Premium Store, the Spotify Premium upgrade works by adding the customer's account to a family plan.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: Spotify Premium Upgrade method?
+Agent:
+Response: At Galactic Premium Store, the Spotify Premium upgrade works by adding the customer's account to a family plan.
+Expected Response: At Galactic Premium Store, the Spotify Premium upgrade works by adding the customer's account to a family plan.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: Can you kindly tell me the nature of the plan utilized in the Spotify Premium Upgrade?
+Agent:
+Response: The Spotify Premium upgrade at Galactic Premium Store utilizes the highest plan available.
+Expected Response: The Spotify Premium upgrade at Galactic Premium Store utilizes the highest plan available.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: What is the nature of the plan utilized for the Spotify Premium Upgrade?
+Agent:
+Response: The Spotify Premium upgrade at Galactic Premium Store utilizes the highest plan available.
+Expected Response: The Spotify Premium upgrade at Galactic Premium Store utilizes the highest plan available.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: Plan nature for Spotify Premium Upgrade?
+Agent:
+Response: The Spotify Premium upgrade at Galactic Premium Store utilizes the highest plan available.
+Expected Response: The Spotify Premium upgrade at Galactic Premium Store utilizes the highest plan available.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: Can you please let me know if the Spotify Premium Upgrade facilitates streaming or downloading of the highest quality music?
+Agent:
+Response: Yes, with the Spotify Premium upgrade at Galactic Premium Store, you are able to stream or download music of the highest quality.
+Expected Response: Yes, with the Spotify Premium upgrade at Galactic Premium Store, you are able to stream or download music of the highest quality.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: Can you state if streaming or downloading of highest quality music is enabled with the Spotify Premium Upgrade?
+Agent:
+Response: Yes, with the Spotify Premium upgrade at Galactic Premium Store, you are able to stream or download music of the highest quality.
+Expected Response: Yes, with the Spotify Premium upgrade at Galactic Premium Store, you are able to stream or download music of the highest quality.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: Highest quality music enabled with Spotify Premium Upgrade?
+Agent:
+Response: Yes, with the Spotify Premium upgrade at Galactic Premium Store, you are able to stream or download music of the highest quality.
+Expected Response: Yes, with the Spotify Premium upgrade at Galactic Premium Store, you are able to stream or download music of the highest quality.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: Can you please clarify if I am able to save unlimited playlists with the Spotify Premium Upgrade?
+Agent:
+Response: Yes, the Spotify Premium upgrade at Galactic Premium Store allows you to save an unlimited number of playlists.
+Expected Response: Yes, the Spotify Premium upgrade at Galactic Premium Store allows you to save an unlimited number of playlists.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: Can you state if saving unlimited playlists is an option with the Spotify Premium Upgrade?
+Agent:
+Response: Yes, the Spotify Premium upgrade at Galactic Premium Store allows you to save an unlimited number of playlists.
+Expected Response: Yes, the Spotify Premium upgrade at Galactic Premium Store allows you to save an unlimited number of playlists.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: General
+Customer: Unlimited playlist option for Spotify Premium Upgrade?
+Agent:
+Response: Yes, the Spotify Premium upgrade at Galactic Premium Store allows you to save an unlimited number of playlists.
+Expected Response: Yes, the Spotify Premium upgrade at Galactic Premium Store allows you to save an unlimited number of playlists.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: Can you tell me about the device allowance as per the Spotify policy for the premium upgrade?
+Agent:
+Response: At Galactic Premium Store, the Spotify premium upgrade allows the usage on one device at a time, in adherence to Spotify's policy.
+Expected Response: At Galactic Premium Store, the Spotify premium upgrade allows the usage on one device at a time, in adherence to Spotify's policy.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: What is the policy on device usage for the Spotify premium upgrade?
+Agent:
+Response: At Galactic Premium Store, the Spotify premium upgrade allows the usage on one device at a time, in adherence to Spotify's policy.
+Expected Response: At Galactic Premium Store, the Spotify premium upgrade allows the usage on one device at a time, in adherence to Spotify's policy.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: Device usage policy for Spotify premium upgrade?
+Agent:
+Response: At Galactic Premium Store, the Spotify premium upgrade allows the usage on one device at a time, in adherence to Spotify's policy.
+Expected Response: At Galactic Premium Store, the Spotify premium upgrade allows the usage on one device at a time, in adherence to Spotify's policy.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: Can you please inform if the Spotify premium upgrade can be accessed on TV from Galactic Premium Store?
+Agent:
+Response: Yes, you can certainly use the Spotify premium upgrade on your TV, available from Galactic Premium Store.
+Expected Response: Yes, you can certainly use the Spotify premium upgrade on your TV, available from Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: Is the Spotify premium upgrade compatible with TV usage?
+Agent:
+Response: Yes, you can certainly use the Spotify premium upgrade on your TV, available from Galactic Premium Store.
+Expected Response: Yes, you can certainly use the Spotify premium upgrade on your TV, available from Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: Compatible with TV, Spotify premium upgrade?
+Agent:
+Response: Yes, you can certainly use the Spotify premium upgrade on your TV, available from Galactic Premium Store.
+Expected Response: Yes, you can certainly use the Spotify premium upgrade on your TV, available from Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: Can you tell me the implications of sharing the Spotify premium upgrade with friends from Galactic Premium Store?
+Agent:
+Response: You can share the Spotify premium upgrade with friends, but it is not recommended as it can only be used on one device at a time, as per our policies at Galactic Premium Store.
+Expected Response: You can share the Spotify premium upgrade with friends, but it is not recommended as it can only be used on one device at a time, as per our policies at Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: Are there any restrictions on sharing the Spotify premium upgrade with friends?
+Agent:
+Response: You can share the Spotify premium upgrade with friends, but it is not recommended as it can only be used on one device at a time, as per our policies at Galactic Premium Store.
+Expected Response: You can share the Spotify premium upgrade with friends, but it is not recommended as it can only be used on one device at a time, as per our policies at Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: Restrictions on sharing Spotify premium upgrade?
+Agent:
+Response: You can share the Spotify premium upgrade with friends, but it is not recommended as it can only be used on one device at a time, as per our policies at Galactic Premium Store.
+Expected Response: You can share the Spotify premium upgrade with friends, but it is not recommended as it can only be used on one device at a time, as per our policies at Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: I'm interested to know if the Spotify premium upgrade facilitates viewing other family members' playlists from Galactic Premium Store?
+Agent:
+Response: I'm afraid the Spotify premium upgrade does not permit the viewing of other family members' playlists, as available from Galactic Premium Store.
+Expected Response: I'm afraid the Spotify premium upgrade does not permit the viewing of other family members' playlists, as available from Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: Can the Spotify premium upgrade allow access to view other family members' playlists?
+Agent:
+Response: I'm afraid the Spotify premium upgrade does not permit the viewing of other family members' playlists, as available from Galactic Premium Store.
+Expected Response: I'm afraid the Spotify premium upgrade does not permit the viewing of other family members' playlists, as available from Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: Access to family playlists with Spotify premium upgrade?
+Agent:
+Response: I'm afraid the Spotify premium upgrade does not permit the viewing of other family members' playlists, as available from Galactic Premium Store.
+Expected Response: I'm afraid the Spotify premium upgrade does not permit the viewing of other family members' playlists, as available from Galactic Premium Store.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: I'm keen to know if the Spotify premium upgrade encompasses all features like a personal plan at Galactic Premium Store?
+Agent:
+Response: Absolutely, the Spotify premium upgrade from Galactic Premium Store grants you access to all of Spotify's features just like a personal plan.
+Expected Response: Absolutely, the Spotify premium upgrade from Galactic Premium Store grants you access to all of Spotify's features just like a personal plan.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: Can I avail all features of a personal plan with the Spotify premium upgrade?
+Agent:
+Response: Absolutely, the Spotify premium upgrade from Galactic Premium Store grants you access to all of Spotify's features just like a personal plan.
+Expected Response: Absolutely, the Spotify premium upgrade from Galactic Premium Store grants you access to all of Spotify's features just like a personal plan.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Customer: All features of personal plan in Spotify premium upgrade?
+Agent:
+Response: Absolutely, the Spotify premium upgrade from Galactic Premium Store grants you access to all of Spotify's features just like a personal plan.
+Expected Response: Absolutely, the Spotify premium upgrade from Galactic Premium Store grants you access to all of Spotify's features just like a personal plan.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: Could you elaborate on the frequency of errors for the Spotify premium upgrade from Galactic Premium Store?
+Agent:
+Response: Errors with the Spotify premium upgrade at Galactic Premium Store occur quite often, roughly once every 2-3 months.
+Expected Response: Errors with the Spotify premium upgrade at Galactic Premium Store occur quite often, roughly once every 2-3 months.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: Can you tell the error frequency for the Spotify premium upgrade?
+Agent:
+Response: Errors with the Spotify premium upgrade at Galactic Premium Store occur quite often, roughly once every 2-3 months.
+Expected Response: Errors with the Spotify premium upgrade at Galactic Premium Store occur quite often, roughly once every 2-3 months.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: Spotify premium upgrade errors frequency?
+Agent:
+Response: Errors with the Spotify premium upgrade at Galactic Premium Store occur quite often, roughly once every 2-3 months.
+Expected Response: Errors with the Spotify premium upgrade at Galactic Premium Store occur quite often, roughly once every 2-3 months.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: Could you please tell the available options for customers if there is an error with the Spotify premium upgrade at Galactic Premium Store?
+Agent:
+Response: If there is an error with the Spotify premium upgrade at Galactic Premium Store, customers can either wait for the admin to fix it, which takes about 1-2 days, or opt for a refund.
+Expected Response: If there is an error with the Spotify premium upgrade at Galactic Premium Store, customers can either wait for the admin to fix it, which takes about 1-2 days, or opt for a refund.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: What are the customer options during a Spotify premium upgrade error?
+Agent:
+Response: If there is an error with the Spotify premium upgrade at Galactic Premium Store, customers can either wait for the admin to fix it, which takes about 1-2 days, or opt for a refund.
+Expected Response: If there is an error with the Spotify premium upgrade at Galactic Premium Store, customers can either wait for the admin to fix it, which takes about 1-2 days, or opt for a refund.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: Customer options during Spotify premium upgrade error?
+Agent:
+Response: If there is an error with the Spotify premium upgrade at Galactic Premium Store, customers can either wait for the admin to fix it, which takes about 1-2 days, or opt for a refund.
+Expected Response: If there is an error with the Spotify premium upgrade at Galactic Premium Store, customers can either wait for the admin to fix it, which takes about 1-2 days, or opt for a refund.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: Could you explain the refund policy for the Spotify premium upgrade at Galactic Premium Store?
+Agent:
+Response: Yes, at Galactic Premium Store, we offer refunds for the Spotify premium upgrade if the customer desires, but only when there is an error occurring.
+Expected Response: Yes, at Galactic Premium Store, we offer refunds for the Spotify premium upgrade if the customer desires, but only when there is an error occurring.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: What is the refund policy for the Spotify premium upgrade?
+Agent:
+Response: Yes, at Galactic Premium Store, we offer refunds for the Spotify premium upgrade if the customer desires, but only when there is an error occurring.
+Expected Response: Yes, at Galactic Premium Store, we offer refunds for the Spotify premium upgrade if the customer desires, but only when there is an error occurring.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: Spotify premium upgrade refund policy?
+Agent:
+Response: Yes, at Galactic Premium Store, we offer refunds for the Spotify premium upgrade if the customer desires, but only when there is an error occurring.
+Expected Response: Yes, at Galactic Premium Store, we offer refunds for the Spotify premium upgrade if the customer desires, but only when there is an error occurring.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: Could you detail the refund policy concerning the rest of the usage time for the Spotify premium upgrade at Galactic Premium Store?
+Agent:
+Response: The refund policy at Galactic Premium Store allows customers to receive a refund for the unused portion of the Spotify premium upgrade; however, days that have already passed will not be refunded.
+Expected Response: The refund policy at Galactic Premium Store allows customers to receive a refund for the unused portion of the Spotify premium upgrade; however, days that have already passed will not be refunded.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: How does the refund policy account for the remaining usage time of the Spotify premium upgrade?
+Agent:
+Response: The refund policy at Galactic Premium Store allows customers to receive a refund for the unused portion of the Spotify premium upgrade; however, days that have already passed will not be refunded.
+Expected Response: The refund policy at Galactic Premium Store allows customers to receive a refund for the unused portion of the Spotify premium upgrade; however, days that have already passed will not be refunded.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: Remaining time refund policy for Spotify premium upgrade?
+Agent:
+Response: The refund policy at Galactic Premium Store allows customers to receive a refund for the unused portion of the Spotify premium upgrade; however, days that have already passed will not be refunded.
+Expected Response: The refund policy at Galactic Premium Store allows customers to receive a refund for the unused portion of the Spotify premium upgrade; however, days that have already passed will not be refunded.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: Could you elaborate on the warranty terms for the Spotify premium upgrade at Galactic Premium Store?
+Agent:
+Response: At Galactic Premium Store, we offer a one-on-one warranty where the admin will address and fix any errors that occur during the Spotify premium upgrade.
+Expected Response: At Galactic Premium Store, we offer a one-on-one warranty where the admin will address and fix any errors that occur during the Spotify premium upgrade.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: What are the terms of the warranty for the Spotify premium upgrade?
+Agent:
+Response: At Galactic Premium Store, we offer a one-on-one warranty where the admin will address and fix any errors that occur during the Spotify premium upgrade.
+Expected Response: At Galactic Premium Store, we offer a one-on-one warranty where the admin will address and fix any errors that occur during the Spotify premium upgrade.
+True
+Chat: Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Customer: Spotify premium upgrade warranty terms?
+Agent:
+Response: At Galactic Premium Store, we offer a one-on-one warranty where the admin will address and fix any errors that occur during the Spotify premium upgrade.
+Expected Response: At Galactic Premium Store, we offer a one-on-one warranty where the admin will address and fix any errors that occur during the Spotify premium upgrade.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: Could you specify the conditions under which the free trial is applicable for YouTube Premium Upgrade at Galactic Premium Store?
+Agent:
+Response: The free trial for the YouTube Premium upgrade at Galactic Premium Store is available exclusively for accounts that have not utilized a free trial before.
+Expected Response: At Galactic Premium Store, the YouTube Premium upgrade is priced at 89000 VND for a 4-month free trial or between 220000 VND and 400000 VND for a 6 to 12-month renewable plan. It is important to note that the free trial is only available for email addresses that have not utilized the trial before.
+False
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: What are the terms for accessing the free trial for YouTube Premium Upgrade?
+Agent:
+Response: The free trial for the YouTube Premium upgrade at Galactic Premium Store is available exclusively for accounts that have not utilized a free trial before.
+Expected Response: At Galactic Premium Store, the YouTube Premium upgrade is priced at 89000 VND for a 4-month free trial or between 220000 VND and 400000 VND for a 6 to 12-month renewable plan. It is important to note that the free trial is only available for email addresses that have not utilized the trial before.
+False
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: Free trial terms for YouTube Premium Upgrade?
+Agent:
+Response: The free trial for the YouTube Premium upgrade at Galactic Premium Store is available exclusively for accounts that have not utilized a free trial before.
+Expected Response: At Galactic Premium Store, the YouTube Premium upgrade is priced at 89000 VND for a 4-month free trial or between 220000 VND and 400000 VND for a 6 to 12-month renewable plan. It is important to note that the free trial is only available for email addresses that have not utilized the trial before.
+False
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: Could you let me know the exact pricing for a 4-month free trial of YouTube Premium Upgrade?
+Agent:
+Response: The 4-month free trial of YouTube Premium upgrade is available at Galactic Premium Store for 89000 VND.
+Expected Response: The 4-month free trial of YouTube Premium upgrade is available at Galactic Premium Store for 89000 VND.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: How much does a 4-month free trial of YouTube Premium Upgrade cost at Galactic Premium Store?
+Agent:
+Response: The 4-month free trial of YouTube Premium upgrade is available at Galactic Premium Store for 89000 VND.
+Expected Response: The 4-month free trial of YouTube Premium upgrade is available at Galactic Premium Store for 89000 VND.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: 4-month YouTube Premium trial price for YouTube Premium Upgrade?
+Agent:
+Response: The 4-month free trial of YouTube Premium upgrade is available at Galactic Premium Store for 89000 VND.
+Expected Response: The 4-month free trial of YouTube Premium upgrade is available at Galactic Premium Store for 89000 VND.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: Can you tell me the cost for a 6-month renewable YouTube Premium Upgrade at Galactic Premium Store?
+Agent:
+Response: The 6-month renewable YouTube Premium upgrade is priced at 220000 VND at Galactic Premium Store.
+Expected Response: The 6-month renewable YouTube Premium upgrade is priced at 220000 VND at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: What is the rate for a 6-month renewable YouTube Premium Upgrade at your store?
+Agent:
+Response: The 6-month renewable YouTube Premium upgrade is priced at 220000 VND at Galactic Premium Store.
+Expected Response: The 6-month renewable YouTube Premium upgrade is priced at 220000 VND at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: 6-month Premium upgrade rate for YouTube Premium Upgrade?
+Agent:
+Response: The 6-month renewable YouTube Premium upgrade is priced at 220000 VND at Galactic Premium Store.
+Expected Response: The 6-month renewable YouTube Premium upgrade is priced at 220000 VND at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: Could you mention the pricing details for a 1-year renewable YouTube Premium Upgrade at Galactic Premium Store?
+Agent:
+Response: The 1-year renewable YouTube Premium upgrade is available for 400000 VND at Galactic Premium Store.
+Expected Response: The 1-year renewable YouTube Premium upgrade is available for 400000 VND at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: What are the pricing details for a 1-year renewable YouTube Premium Upgrade at your store?
+Agent:
+Response: The 1-year renewable YouTube Premium upgrade is available for 400000 VND at Galactic Premium Store.
+Expected Response: The 1-year renewable YouTube Premium upgrade is available for 400000 VND at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: 1-year Premium upgrade details for YouTube Premium Upgrade?
+Agent:
+Response: The 1-year renewable YouTube Premium upgrade is available for 400000 VND at Galactic Premium Store.
+Expected Response: The 1-year renewable YouTube Premium upgrade is available for 400000 VND at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: Could you let me know the retailer price for the 4-month free trial of YouTube Premium Upgrade at Galactic Premium Store?
+Agent:
+Response: The retailer price for a 4-month free trial of YouTube Premium upgrade at Galactic Premium Store is 35000 VND.
+Expected Response: The retailer price for a 4-month free trial of YouTube Premium upgrade at Galactic Premium Store is 35000 VND.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: What is the retailer cost for a 4-month free trial of YouTube Premium Upgrade at your store?
+Agent:
+Response: The retailer price for a 4-month free trial of YouTube Premium upgrade at Galactic Premium Store is 35000 VND.
+Expected Response: The retailer price for a 4-month free trial of YouTube Premium upgrade at Galactic Premium Store is 35000 VND.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: Retailer 4-month price for YouTube Premium Upgrade?
+Agent:
+Response:  The retailer price for a 4-month free trial of YouTube Premium upgrade at Galactic Premium Store is 35000 VND.
+Expected Response: The retailer price for a 4-month free trial of YouTube Premium upgrade at Galactic Premium Store is 35000 VND.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: Could you let me know the pricing structure for a 6-month renewable YouTube Premium Upgrade for retailers at Galactic Premium Store?
+Agent:
+Response: The retailer price for a 6-month renewable YouTube Premium upgrade at Galactic Premium Store is 120000 VND.
+Expected Response: The retailer price for a 6-month renewable YouTube Premium upgrade at Galactic Premium Store is 120000 VND.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: What are the pricing details for a 6-month renewable YouTube Premium Upgrade for retailers at your store?
+Agent:
+Response: The retailer price for a 6-month renewable YouTube Premium upgrade at Galactic Premium Store is 120000 VND.
+Expected Response: The retailer price for a 6-month renewable YouTube Premium upgrade at Galactic Premium Store is 120000 VND.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: Retailer 6-month Premium upgrade details for YouTube Premium Upgrade?
+Agent:
+Response:  The retailer price for a 6-month renewable YouTube Premium upgrade at Galactic Premium Store is 120000 VND.
+Expected Response: The retailer price for a 6-month renewable YouTube Premium upgrade at Galactic Premium Store is 120000 VND.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: Could you let me know the pricing structure for a 1-year renewable YouTube Premium Upgrade for retailers?
+Agent:
+Response: The 1-year renewable YouTube Premium upgrade for retailers is available at 220000 VND at Galactic Premium Store.
+Expected Response: The 1-year renewable YouTube Premium upgrade for retailers is available at 220000 VND at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: What are the pricing details for a 1-year renewable YouTube Premium Upgrade for retailers at Galactic Premium Store?
+Agent:
+Response: The 1-year renewable YouTube Premium upgrade for retailers is available at 220000 VND at Galactic Premium Store.
+Expected Response: The 1-year renewable YouTube Premium upgrade for retailers is available at 220000 VND at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Customer: Retailer 1-year details for YouTube Premium Upgrade?
+Agent:
+Response:  The 1-year renewable YouTube Premium upgrade for retailers is available at 220000 VND at Galactic Premium Store.
+Expected Response: The 1-year renewable YouTube Premium upgrade for retailers is available at 220000 VND at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Can you provide information on the plan durations available for YouTube Premium upgrade at Galactic Premium Store?
+Agent:
+Response: We offer two main plans for the YouTube Premium upgrade at Galactic Premium Store: a 4-month free trial plan and a renewable plan which is available for either 6 months or 12 months.
+Expected Response: We offer two main plans for the YouTube Premium upgrade at Galactic Premium Store: a 4-month free trial plan and a renewable plan which is available for either 6 months or 12 months.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: What are the durations for the available YouTube Premium upgrade plans at your store?
+Agent:
+Response: The renewable plan details for the YouTube Premium upgrade include a 1-month free trial and a renewable plan for 4 months, which is available for 20000 VND at Galactic Premium Store.
+Expected Response: We offer two main plans for the YouTube Premium upgrade at Galactic Premium Store: a 4-month free trial plan and a renewable plan which is available for either 6 months or 12 months.
+False
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: YouTube Premium plan durations at Galactic?
+Agent:
+Response: The YouTube Premium plan at Galactic Premium Store is available in two main durations: a 4-month free trial plan and a renewable plan which is available for either 6 months or 12 months.
+Expected Response: We offer two main plans for the YouTube Premium upgrade at Galactic Premium Store: a 4-month free trial plan and a renewable plan which is available for either 6 months or 12 months.
+False
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Can you provide information on who can utilize the free trial for YouTube Premium upgrade at Galactic Premium Store?
+Agent:
+Response: The free trial for the YouTube Premium upgrade at Galactic Premium Store is available exclusively for accounts that have not utilized a free trial before.
+Expected Response: The free trial for the YouTube Premium upgrade at Galactic Premium Store is available exclusively for accounts that have not utilized a free trial before.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Who can utilize the free trial for YouTube Premium upgrade at your store?
+Agent:
+Response: The free trial for the YouTube Premium upgrade at Galactic Premium Store is available exclusively for accounts that have not utilized a free trial before.
+Expected Response: The free trial for the YouTube Premium upgrade at Galactic Premium Store is available exclusively for accounts that have not utilized a free trial before.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Who can utilize YouTube Premium free trial at Galactic?
+Agent:
+Response: The free trial for the YouTube Premium upgrade at Galactic Premium Store is available exclusively for accounts that have not utilized a free trial before.
+Expected Response: The free trial for the YouTube Premium upgrade at Galactic Premium Store is available exclusively for accounts that have not utilized a free trial before.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Can you inform me about the possibility of acquiring another free trial after 4 months with the YouTube Premium upgrade?
+Agent:
+Response: Unfortunately, buying another free trial after the first 4 months ends is not available at Galactic Premium Store.
+Expected Response: Unfortunately, buying another free trial after the first 4 months ends is not available at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Is acquiring another free trial after 4 months possible with YouTube Premium upgrade?
+Agent:
+Response: Unfortunately, buying another free trial after the first 4 months ends is not available at Galactic Premium Store.
+Expected Response: Unfortunately, buying another free trial after the first 4 months ends is not available at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Acquire second trial after 4 months, YouTube Premium upgrade?
+Agent:
+Response: Unfortunately, buying another free trial after the first 4 months ends is not available at Galactic Premium Store.
+Expected Response: Unfortunately, buying another free trial after the first 4 months ends is not available at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Could you please specify if purchasing a renewable plan is possible after the free trial of YouTube Premium upgrade?
+Agent:
+Response: Yes, you can purchase a renewable plan after the free trial at Galactic Premium Store.
+Expected Response: Yes, you can purchase a renewable plan after the free trial at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Is purchasing a renewable plan an option after the free trial of YouTube Premium upgrade?
+Agent:
+Response: Yes, you can purchase a renewable plan after the free trial at Galactic Premium Store.
+Expected Response: Yes, you can purchase a renewable plan after the free trial at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Renewable plan purchase post-free trial, YouTube Premium upgrade?
+Agent:
+Response: Yes, you can purchase a renewable plan after the free trial at Galactic Premium Store.
+Expected Response: Yes, you can purchase a renewable plan after the free trial at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Could you specify who can purchase the renewable plan for YouTube Premium upgrade?
+Agent:
+Response: The renewable plan for YouTube Premium upgrade is available for everyone at Galactic Premium Store.
+Expected Response: The renewable plan for YouTube Premium upgrade is available for everyone at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Who is eligible to purchase the renewable plan for YouTube Premium upgrade?
+Agent:
+Response: The renewable plan for YouTube Premium upgrade is available for everyone at Galactic Premium Store.
+Expected Response: The renewable plan for YouTube Premium upgrade is available for everyone at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Renewable plan eligibility, YouTube Premium upgrade?
+Agent:
+Response: The renewable plan for YouTube Premium upgrade is available for everyone at Galactic Premium Store.
+Expected Response: The renewable plan for YouTube Premium upgrade is available for everyone at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Can you specify the special features that are included in the YouTube Premium upgrade at Galactic Premium Store?
+Agent:
+Response: The YouTube Premium upgrade offers several benefits such as no ads, premium quality, and background music, among others. You can avail of this upgrade at Galactic Premium Store.
+Expected Response: The YouTube Premium upgrade offers several benefits such as no ads, premium quality, and background music, among others. You can avail of this upgrade at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: What special features are included in the YouTube Premium upgrade?
+Agent:
+Response: The YouTube Premium upgrade offers several benefits such as no ads, premium quality, and background music, among others. You can avail of this upgrade at Galactic Premium Store.
+Expected Response: The YouTube Premium upgrade offers several benefits such as no ads, premium quality, and background music, among others. You can avail of this upgrade at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Special features of YouTube Premium upgrade?
+Agent:
+Response: The YouTube Premium upgrade offers several benefits such as no ads, premium quality, and background music, among others. You can avail of this upgrade at Galactic Premium Store.
+Expected Response: The YouTube Premium upgrade offers several benefits such as no ads, premium quality, and background music, among others. You can avail of this upgrade at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Could you provide more information on the family premium plan as part of the renewable plan for YouTube Premium upgrade at Galactic Premium Store?
+Agent:
+Response: The renewable plan details for the YouTube Premium upgrade include a family premium plan, which you can avail of at Galactic Premium Store.
+Expected Response: The renewable plan details for the YouTube Premium upgrade include a family premium plan, which you can avail of at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: What information can you provide about the family premium plan of YouTube Premium upgrade?
+Agent:
+Response: The renewable plan details for the YouTube Premium upgrade include a family premium plan, which you can avail of at Galactic Premium Store.
+Expected Response: The renewable plan details for the YouTube Premium upgrade include a family premium plan, which you can avail of at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Information on family premium plan, YouTube Premium upgrade?
+Agent:
+Response: The renewable plan details for the YouTube Premium upgrade include a family premium plan, which you can avail of at Galactic Premium Store.
+Expected Response: The renewable plan details for the YouTube Premium upgrade include a family premium plan, which you can avail of at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Can you clarify if there are discrepancies between the free trial plan and the normal premium plan of YouTube Premium upgrade available at Galactic Premium Store?
+Agent:
+Response: I'm pleased to inform you that while the free trial plan and the normal premium plan for YouTube Premium upgrade at Galactic Premium Store might seem like two separate plans, they are, in fact, one and the same.
+Expected Response: The free trial plan and the normal premium plan for YouTube Premium upgrade at Galactic Premium Store offer the same benefits, allowing users to utilize all available features.
+False
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Are there discrepancies between the free trial plan and the normal premium plan of YouTube Premium upgrade?
+Agent:
+Response: The free trial plan and the normal premium plan for YouTube Premium upgrade at Galactic Premium Store offer the same benefits, allowing users to utilize all available features.
+Expected Response: The free trial plan and the normal premium plan for YouTube Premium upgrade at Galactic Premium Store offer the same benefits, allowing users to utilize all available features.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Discrepancies between free trial and normal premium, YouTube Premium upgrade?
+Agent:
+Response: The free trial plan and the normal premium plan for YouTube Premium upgrade at Galactic Premium Store offer the same benefits, allowing users to utilize all available features.
+Expected Response: The free trial plan and the normal premium plan for YouTube Premium upgrade at Galactic Premium Store offer the same benefits, allowing users to utilize all available features.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Can you inform me about the details to provide when buying the free trial plan of YouTube Premium upgrade at Galactic Premium Store?
+Agent:
+Response: When purchasing the free trial plan of YouTube Premium upgrade at Galactic Premium Store, you need to provide the admin with the email and password of the account.
+Expected Response: When purchasing the free trial plan of YouTube Premium upgrade at Galactic Premium Store, you need to provide the admin with the email and password of the account.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: What details should I provide when buying the free trial plan of YouTube Premium upgrade?
+Agent:
+Response: When purchasing the free trial plan of YouTube Premium upgrade at Galactic Premium Store, you need to provide the admin with the email and password of the account.
+Expected Response: When purchasing the free trial plan of YouTube Premium upgrade at Galactic Premium Store, you need to provide the admin with the email and password of the account.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Details to provide when buying free trial, YouTube Premium upgrade?
+Agent:
+Response: When purchasing the free trial plan of YouTube Premium upgrade at Galactic Premium Store, you need to provide the admin with the email and password of the account.
+Expected Response: When purchasing the free trial plan of YouTube Premium upgrade at Galactic Premium Store, you need to provide the admin with the email and password of the account.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Can you tell me the specifics I need to provide when purchasing the renewable plan for YouTube Premium upgrade at Galactic Premium Store?
+Agent:
+Response: When you buy a renewable plan for YouTube Premium upgrade at Galactic Premium Store, you only need to provide the admin with your email.
+Expected Response: When you buy a renewable plan for YouTube Premium upgrade at Galactic Premium Store, you only need to provide the admin with your email.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: What specifics are needed to purchase the renewable plan of YouTube Premium upgrade?
+Agent:
+Response: When you buy a renewable plan for YouTube Premium upgrade at Galactic Premium Store, you only need to provide the admin with your email.
+Expected Response: When you buy a renewable plan for YouTube Premium upgrade at Galactic Premium Store, you only need to provide the admin with your email.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: General
+Customer: Specifics for purchasing renewable plan, YouTube Premium upgrade?
+Agent:
+Response: When you buy a renewable plan for YouTube Premium upgrade at Galactic Premium Store, you only need to provide the admin with your email.
+Expected Response: When you buy a renewable plan for YouTube Premium upgrade at Galactic Premium Store, you only need to provide the admin with your email.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Customer: Could you please specify the safety of using the renewable plan of YouTube premium upgrade at Galactic Premium Store?
+Agent:
+Response: The renewable plan for YouTube premium upgrade at Galactic Premium Store is a safe and secure one, as it is only available for users who have an account with a premium plan.
+Expected Response: I'm pleased to inform you that while the free trial plan of the YouTube premium upgrade at Galactic Premium Store might pose a risk of getting your account banned, there are no errors reported with the renewable plan.
+False
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Customer: Is the renewable plan of YouTube premium upgrade at Galactic Premium Store safe?
+Agent:
+Response: The renewable plan for YouTube premium upgrade at Galactic Premium Store utilizes the highest security available, providing the best protection for the customer's account.
+Expected Response: I'm pleased to inform you that while the free trial plan of the YouTube premium upgrade at Galactic Premium Store might pose a risk of getting your account banned, there are no errors reported with the renewable plan.
+False
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Customer: Renewable plan safety at Galactic Premium Store for YouTube premium upgrade?
+Agent:
+Response: The renewable plan for YouTube premium upgrade at Galactic Premium Store is a safe and secure one, as it is only available for users who have an excellent credit history with the store.
+Expected Response: I'm pleased to inform you that while the free trial plan of the YouTube premium upgrade at Galactic Premium Store might pose a risk of getting your account banned, there are no errors reported with the renewable plan.
+False
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Customer: Could you let me know the Galactic Premium Store's stance on refunds for YouTube premium upgrade?
+Agent:
+Response: I regret to inform you that refunds are not available for the YouTube premium upgrade at Galactic Premium Store.
+Expected Response: I regret to inform you that refunds are not available for the YouTube premium upgrade at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Customer: What is Galactic Premium Store's stance on YouTube premium upgrade refunds?
+Agent:
+Response: I regret to inform you that refunds are not available for the YouTube premium upgrade at Galactic Premium Store.
+Expected Response: I regret to inform you that refunds are not available for the YouTube premium upgrade at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Customer: Galactic Premium Store YouTube premium upgrade refund stance?
+Agent:
+Response: I regret to inform you that refunds are not available for the YouTube premium upgrade at Galactic Premium Store.
+Expected Response: I regret to inform you that refunds are not available for the YouTube premium upgrade at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Customer: Could you kindly detail the scope of the warranty coverage for YouTube premium upgrade at Galactic Premium Store?
+Agent:
+Response: I'm happy to inform you that the YouTube premium upgrade at Galactic Premium Store comes with a one-on-one warranty until the end of the subscription.
+Expected Response: I'm happy to inform you that the YouTube premium upgrade at Galactic Premium Store comes with a one-on-one warranty until the end of the subscription.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Customer: What is covered under the warranty for YouTube premium upgrade at Galactic Premium Store?
+Agent:
+Response: I'm happy to inform you that the YouTube premium upgrade at Galactic Premium Store comes with a one-on-one warranty until the end of the subscription.
+Expected Response: I'm happy to inform you that the YouTube premium upgrade at Galactic Premium Store comes with a one-on-one warranty until the end of the subscription.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Customer: Warranty coverage for YouTube premium upgrade at Galactic Premium Store?
+Agent:
+Response: I'm happy to inform you that the YouTube premium upgrade at Galactic Premium Store comes with a one-on-one warranty until the end of the subscription.
+Expected Response: I'm happy to inform you that the YouTube premium upgrade at Galactic Premium Store comes with a one-on-one warranty until the end of the subscription.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: Could you clarify the device allowance for youtube premium upgrade?
+Agent:
+Response: There is no device restriction with a youtube premium upgrade purchased from Galactic Premium Store; you are allowed unlimited devices.
+Expected Response: There is no device restriction with a youtube premium upgrade purchased from Galactic Premium Store; you are allowed unlimited devices.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: What is the device limit on a youtube premium upgrade?
+Agent:
+Response: There is no device restriction with a youtube premium upgrade purchased from Galactic Premium Store; you are allowed unlimited devices.
+Expected Response: There is no device restriction with a youtube premium upgrade purchased from Galactic Premium Store; you are allowed unlimited devices.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: Youtube premium upgrade device allowance?
+Agent:
+Response: There is no device restriction with a youtube premium upgrade purchased from Galactic Premium Store; you are allowed unlimited devices.
+Expected Response: There is no device restriction with a youtube premium upgrade purchased from Galactic Premium Store; you are allowed unlimited devices.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: May I know the effects of sharing an account on youtube premium upgrade?
+Agent:
+Response: Sharing an account on youtube premium upgrade is possible, but it is not recommended as the watch history would be mixed, which is available at Galactic Premium Store.
+Expected Response: Sharing an account on youtube premium upgrade is possible, but it is not recommended as the watch history would be mixed, which is available at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: What are the consequences of sharing an account on youtube premium upgrade?
+Agent:
+Response: Sharing an account on youtube premium upgrade is possible, but it is not recommended as the watch history would be mixed, which is available at Galactic Premium Store.
+Expected Response: Sharing an account on youtube premium upgrade is possible, but it is not recommended as the watch history would be mixed, which is available at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: Consequences of account sharing on youtube premium upgrade?
+Agent:
+Response: Sharing an account on youtube premium upgrade is possible, but it is not recommended as the watch history would be mixed, which is available at Galactic Premium Store.
+Expected Response: Sharing an account on youtube premium upgrade is possible, but it is not recommended as the watch history would be mixed, which is available at Galactic Premium Store.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: May I know how mixed watch history affects ads on youtube premium upgrade?
+Agent:
+Response: Mixed watch history on youtube premium upgrade, which can be purchased from Galactic Premium Store, is not advisable as YouTube uses that information to personalize content and ads for the user.
+Expected Response: Mixed watch history on youtube premium upgrade, which can be purchased from Galactic Premium Store, is not advisable as YouTube uses that information to personalize content and ads for the user.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: How does mixed watch history affect ad personalization on youtube premium upgrade?
+Agent:
+Response: Mixed watch history on youtube premium upgrade, which can be purchased from Galactic Premium Store, is not advisable as YouTube uses that information to personalize content and ads for the user.
+Expected Response: Mixed watch history on youtube premium upgrade, which can be purchased from Galactic Premium Store, is not advisable as YouTube uses that information to personalize content and ads for the user.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: Effect of mixed watch history on youtube premium upgrade ads?
+Agent:
+Response: Mixed watch history on youtube premium upgrade, which can be purchased from Galactic Premium Store, is not advisable as YouTube uses that information to personalize content and ads for the user.
+Expected Response: Mixed watch history on youtube premium upgrade, which can be purchased from Galactic Premium Store, is not advisable as YouTube uses that information to personalize content and ads for the user.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: Can I get details on the video quality options available on youtube premium upgrade?
+Agent:
+Response: Yes, with a youtube premium upgrade from Galactic Premium Store, you are able to stream or download videos in the highest quality available.
+Expected Response: Yes, with a youtube premium upgrade from Galactic Premium Store, you are able to stream or download videos in the highest quality available.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: What are the video quality options available on youtube premium upgrade?
+Agent:
+Response: Yes, with a youtube premium upgrade from Galactic Premium Store, you are able to stream or download videos in the highest quality available.
+Expected Response: Yes, with a youtube premium upgrade from Galactic Premium Store, you are able to stream or download videos in the highest quality available.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: Video quality options on youtube premium upgrade?
+Agent:
+Response: Yes, with a youtube premium upgrade from Galactic Premium Store, you are able to stream or download videos in the highest quality available.
+Expected Response: Yes, with a youtube premium upgrade from Galactic Premium Store, you are able to stream or download videos in the highest quality available.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: May I inquire about the ability to view family members' history on youtube premium upgrade?
+Agent:
+Response: No, with a youtube premium upgrade purchased from Galactic Premium Store, you cannot view other family members' history.
+Expected Response: No, with a youtube premium upgrade purchased from Galactic Premium Store, you cannot view other family members' history.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: Can you tell me if I can view other family members' history on youtube premium upgrade?
+Agent:
+Response: No, with a youtube premium upgrade purchased from Galactic Premium Store, you cannot view other family members' history.
+Expected Response: No, with a youtube premium upgrade purchased from Galactic Premium Store, you cannot view other family members' history.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: Youtube premium upgrade family member history viewing?
+Agent:
+Response: No, with a youtube premium upgrade purchased from Galactic Premium Store, you cannot view other family members' history.
+Expected Response: No, with a youtube premium upgrade purchased from Galactic Premium Store, you cannot view other family members' history.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: May I inquire about anything concerning other family members in the youtube premium upgrade plan?
+Agent:
+Response: No, with the youtube premium upgrade available at Galactic Premium Store, there are no functionalities or features available concerning other family members in the family plan.
+Expected Response: No, with the youtube premium upgrade available at Galactic Premium Store, there are no functionalities or features available concerning other family members in the family plan.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: Can you tell me about any features concerning other family members on youtube premium upgrade?
+Agent:
+Response: No, with the youtube premium upgrade available at Galactic Premium Store, there are no functionalities or features available concerning other family members in the family plan.
+Expected Response: No, with the youtube premium upgrade available at Galactic Premium Store, there are no functionalities or features available concerning other family members in the family plan.
+True
+Chat: Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Customer: Youtube premium upgrade plan features for family members?
+Agent:
+Response: No, with the youtube premium upgrade available at Galactic Premium Store, there are no functionalities or features available concerning other family members in the family plan.
+Expected Response: No, with the youtube premium upgrade available at Galactic Premium Store, there are no functionalities or features available concerning other family members in the family plan.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Could you please provide the name of the shop?
+Agent:
+Response: The Galactic Premium shop is named after the Galactic Premium quality guarantee program.
+Expected Response: Our online store is named "Galactic Premium".
+False
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: What is the shop name?
+Agent:
+Response: The Galactic Premium shop is named after the Galactic Premium quality guarantee program.
+Expected Response: Our online store is named "Galactic Premium".
+False
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Name?
+Agent:
+Response: The Galactic Premium comes with a personal name and family name available.
+Expected Response: Our online store is named "Galactic Premium".
+False
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Can you specify the Galactic Premium shop's years of experience in the field?
+Agent:
+Response: The Galactic Premium shop has accumulated 5 years of experience.
+Expected Response: The Galactic Premium shop has accumulated 5 years of experience.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: How many years has Galactic Premium shop been in operation?
+Agent:
+Response: The Galactic Premium shop has been in operation for more than 5 years.
+Expected Response: The Galactic Premium shop has accumulated 5 years of experience.
+False
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Years of experience for Galactic Premium shop?
+Agent:
+Response: The Galactic Premium shop has accumulated 5 years of experience.
+Expected Response: The Galactic Premium shop has accumulated 5 years of experience.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Could you specify the payment methods available at the Galactic Premium shop?
+Agent:
+Response: The Galactic Premium shop accepts payment through online banking or momo, and shopeepay wallet.
+Expected Response: The Galactic Premium shop accepts payment through online banking or momo, and shopeepay wallet.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: What are the ways to pay at Galactic Premium shop?
+Agent:
+Response: The Galactic Premium shop accepts payment through online banking or momo, and shopeepay wallet.
+Expected Response: The Galactic Premium shop accepts payment through online banking or momo, and shopeepay wallet.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Payment ways at Galactic Premium shop?
+Agent:
+Response: The Galactic Premium shop accepts payment through online banking or momo, and shopeepay wallet.
+Expected Response: The Galactic Premium shop accepts payment through online banking or momo, and shopeepay wallet.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Could you provide the online banking payment details for transactions with Galactic Premium?
+Agent:
+Response: For online banking payments to Galactic Premium, please use the account Mbbank 099826027000 and contact the admin after making the payment.
+Expected Response: For online banking payments to Galactic Premium, please use the account Mbbank 099826027000 and contact the admin after making the payment.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: What are the details for online banking transactions at Galactic Premium?
+Agent:
+Response: For online banking payments to Galactic Premium, please use the account Mbbank 099826027000 and contact the admin after making the payment.
+Expected Response: For online banking payments to Galactic Premium, please use the account Mbbank 099826027000 and contact the admin after making the payment.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Online banking transaction details for Galactic Premium?
+Agent:
+Response: For online banking payments to Galactic Premium, please use the account Mbbank 099826027000 and contact the admin after making the payment.
+Expected Response: For online banking payments to Galactic Premium, please use the account Mbbank 099826027000 and contact the admin after making the payment.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Could you specify the Momo and Shopeepay wallet information for transactions at Galactic Premium?
+Agent:
+Response: To make a payment at Galactic Premium through Momo and Shopeepay, use the number 0335572158 and kindly contact the admin post transaction.
+Expected Response: To make a payment at Galactic Premium through Momo and Shopeepay, use the number 0335572158 and kindly contact the admin post transaction.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: What's the info for making payments through Momo and Shopeepay at Galactic Premium?
+Agent:
+Response: To make a payment at Galactic Premium through Momo and Shopeepay, use the number 0335572158 and kindly contact the admin post transaction.
+Expected Response: To make a payment at Galactic Premium through Momo and Shopeepay, use the number 0335572158 and kindly contact the admin post transaction.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Momo and Shopeepay transaction info for Galactic Premium?
+Agent:
+Response: To make a payment at Galactic Premium through Momo and Shopeepay, use the number 0335572158 and kindly contact the admin post transaction.
+Expected Response: To make a payment at Galactic Premium through Momo and Shopeepay, use the number 0335572158 and kindly contact the admin post transaction.
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Could you specify the warranty policy details for products at Galactic Premium?
+Agent:
+Response: The warranty policy at Galactic Premium depends on each individual product, may I know which product you are inquiring about?
+Expected Response: The warranty policy at Galactic Premium depends on each individual product, may I know which product you are inquiring about?
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: What are the details of the warranty policy at Galactic Premium?
+Agent:
+Response: The warranty policy at Galactic Premium depends on each individual product, may I know which product you are inquiring about?
+Expected Response: The warranty policy at Galactic Premium depends on each individual product, may I know which product you are inquiring about?
+True
+Chat: Summary: Galactic Premiums information
+
+Specific information: General
+Customer: Warranty policy details at Galactic Premium?
+Agent:
+Response: The warranty policy at Galactic Premium depends on each individual product, may I know which product you are inquiring about?
+Expected Response: The warranty policy at Galactic Premium depends on each individual product, may I know which product you are inquiring about?
+True
+Success: 197/210

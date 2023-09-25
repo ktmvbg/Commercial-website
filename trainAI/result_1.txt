@@ -1,0 +1,2101 @@
+Chat: Could you mention the one and three-month subscription prices for Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: How much does Netflix shared slot cost for one and three months?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Cost of one and three-month Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Can you state the one-month subscription price for Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: What is the charge for one month of Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: One-month Netflix shared slot charge?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Can you state the three-month subscription price for Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: What is the charge for three months of Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Three months Netflix shared slot charge?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Can you state the monthly retailer charge for Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: What is the monthly retailer charge for Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Monthly retailer charge for Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Can you state if there are bulk purchase offers for retailers for Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Are there offers for retailers for bulk purchases of Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Bulk purchase offers for retailers on Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Can you state if 6 or 12-month subscriptions are available at the 3-month rate for Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Is it feasible to get 6 or 12-month subscriptions at the 3-month rate for Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: 6 or 12-month subscriptions at 3-month rate feasibility for Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Pricing
+True
+Chat: Could you please confirm the plan category of the Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+True
+Chat: Can you specify the Netflix shared slot plan?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+True
+Chat: Netflix shared slot plan category?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+True
+Chat: Could you please verify if I can view content in 4K UltraHD with the Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+True
+Chat: Can you mention if 4K UltraHD is supported in the Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+True
+Chat: Supported 4K UltraHD on Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+True
+Chat: Could you let me know if the Netflix shared slot supports downloading?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+True
+Chat: Can you specify if the Netflix shared slot has a download option?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+True
+Chat: Download support on Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: General
+True
+Chat: Could you tell me about the device allowance on the Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Can you mention the number of devices permitted with a Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Devices permitted on Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Can you specify if the Netflix shared slot can be accessed via a television?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Is it feasible to use the Netflix shared slot on a television?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Netflix shared slot on television feasible?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Could you let me know if the Netflix shared slot can be shared with friends?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Is it allowed to share the Netflix shared slot with friends?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Netflix shared slot shareable with friends?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Could you let me know the allowed number of profiles in the available slots of a Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: How many profiles can be set up in the available slots of a Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Profile setup allowance in Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Could you let me know if the Netflix shared slot permits the use of other's profiles?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Is it permissible to use other's profiles with a Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Use other's profiles permissible in Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Could you let me know if setting a password to my profile is permissible in a Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Can you confirm if I can secure my profile with a password in a Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Secure profile with password permissible in Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Usage
+True
+Chat: Could you provide an overview of the error rate for the Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+True
+Chat: Can you specify the frequency of errors for the Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+True
+Chat: Overview of error rate in Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+True
+Chat: Could you provide insights on the refund process for the Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+True
+Chat: Can you confirm the refund policies for the Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+True
+Chat: Netflix shared slot refund policies?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+True
+Chat: Could you provide insights on how the 1 on 1 exchange works if there's an error with the Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+True
+Chat: Can you confirm the terms of the 1 on 1 exchange in case of errors with the Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+True
+Chat: Terms for 1 on 1 exchange during errors in Netflix shared slot?
+Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+Expected Response:  
+Summary: Netflix Shared Slot
+
+Specific information: Policy
+True
+Chat: Can you provide the general annual cost of the Spotify Premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: What is the general annual cost for the Spotify Premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Annual cost for Spotify Premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Can you confirm if there is a one-month pricing for the Spotify Premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Is there a one-month pricing for the Spotify Premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: One-month pricing for Spotify Premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Can you tell me if there's a discount when buying the Spotify Premium upgrade in bulk?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Is there a discount for bulk purchases of Spotify Premium upgrades?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Bulk purchase Spotify Premium discount?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Could you please clarify if there's a bulk purchase facility for Spotify Premium upgrades?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Is there a facility for bulk purchasing Spotify Premium upgrades?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Bulk purchase facility for Spotify Premium?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Could you provide the pricing details for retailers for a yearly Spotify Premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: What are the pricing details for retailers for a yearly Spotify Premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Yearly Spotify Premium retailer pricing?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Could you please verify if there is any discount for retailers when buying Spotify Premium Upgrade in bulk?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Can you confirm if there is a bulk purchase discount for retailers for Spotify Premium Upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Retailer bulk discount for Spotify Premium Upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Could you please elucidate the method of Spotify Premium Upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you explain the Spotify Premium Upgrade method?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: Spotify Premium Upgrade method?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you kindly tell me the nature of the plan utilized in the Spotify Premium Upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: What is the nature of the plan utilized for the Spotify Premium Upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: Plan nature for Spotify Premium Upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you please let me know if the Spotify Premium Upgrade facilitates streaming or downloading of the highest quality music?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you state if streaming or downloading of highest quality music is enabled with the Spotify Premium Upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: Highest quality music enabled with Spotify Premium Upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you please clarify if I am able to save unlimited playlists with the Spotify Premium Upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you state if saving unlimited playlists is an option with the Spotify Premium Upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: Unlimited playlist option for Spotify Premium Upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you tell me about the device allowance as per the Spotify policy for the premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: What is the policy on device usage for the Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Device usage policy for Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Can you please inform if the Spotify premium upgrade can be accessed on TV from Galactic Premium Store?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Is the Spotify premium upgrade compatible with TV usage?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Compatible with TV, Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Can you tell me the implications of sharing the Spotify premium upgrade with friends from Galactic Premium Store?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Are there any restrictions on sharing the Spotify premium upgrade with friends?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Restrictions on sharing Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: I'm interested to know if the Spotify premium upgrade facilitates viewing other family members' playlists from Galactic Premium Store?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Can the Spotify premium upgrade allow access to view other family members' playlists?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Access to family playlists with Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: I'm keen to know if the Spotify premium upgrade encompasses all features like a personal plan at Galactic Premium Store?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Can I avail all features of a personal plan with the Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: All features of personal plan in Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Could you elaborate on the frequency of errors for the Spotify premium upgrade from Galactic Premium Store?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Can you tell the error frequency for the Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Spotify premium upgrade errors frequency?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Could you please tell the available options for customers if there is an error with the Spotify premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: What are the customer options during a Spotify premium upgrade error?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Customer options during Spotify premium upgrade error?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Could you explain the refund policy for the Spotify premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: What is the refund policy for the Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Spotify premium upgrade refund policy?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Could you detail the refund policy concerning the rest of the usage time for the Spotify premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: How does the refund policy account for the remaining usage time of the Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Remaining time refund policy for Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Could you elaborate on the warranty terms for the Spotify premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: What are the terms of the warranty for the Spotify premium upgrade?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Spotify premium upgrade warranty terms?
+Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Spotify Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Could you specify the conditions under which the free trial is applicable for YouTube Premium Upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+False
+Chat: What are the terms for accessing the free trial for YouTube Premium Upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+False
+Chat: Free trial terms for YouTube Premium Upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+False
+Chat: Could you let me know the exact pricing for a 4-month free trial of YouTube Premium Upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: How much does a 4-month free trial of YouTube Premium Upgrade cost at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: 4-month YouTube Premium trial price for YouTube Premium Upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Can you tell me the cost for a 6-month renewable YouTube Premium Upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: What is the rate for a 6-month renewable YouTube Premium Upgrade at your store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: 6-month Premium upgrade rate for YouTube Premium Upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Could you mention the pricing details for a 1-year renewable YouTube Premium Upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: What are the pricing details for a 1-year renewable YouTube Premium Upgrade at your store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: 1-year Premium upgrade details for YouTube Premium Upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+False
+Chat: Could you let me know the retailer price for the 4-month free trial of YouTube Premium Upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: What is the retailer cost for a 4-month free trial of YouTube Premium Upgrade at your store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Retailer 4-month price for YouTube Premium Upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Could you let me know the pricing structure for a 6-month renewable YouTube Premium Upgrade for retailers at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: What are the pricing details for a 6-month renewable YouTube Premium Upgrade for retailers at your store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Retailer 6-month Premium upgrade details for YouTube Premium Upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+False
+Chat: Could you let me know the pricing structure for a 1-year renewable YouTube Premium Upgrade for retailers?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: What are the pricing details for a 1-year renewable YouTube Premium Upgrade for retailers at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Retailer 1-year details for YouTube Premium Upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Pricing
+True
+Chat: Can you provide information on the plan durations available for YouTube Premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: What are the durations for the available YouTube Premium upgrade plans at your store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: YouTube Premium plan durations at Galactic?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you provide information on who can utilize the free trial for YouTube Premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Who can utilize the free trial for YouTube Premium upgrade at your store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Who can utilize YouTube Premium free trial at Galactic?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you inform me about the possibility of acquiring another free trial after 4 months with the YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Is acquiring another free trial after 4 months possible with YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Acquire second trial after 4 months, YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Could you please specify if purchasing a renewable plan is possible after the free trial of YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Is purchasing a renewable plan an option after the free trial of YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Renewable plan purchase post-free trial, YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Could you specify who can purchase the renewable plan for YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Who is eligible to purchase the renewable plan for YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Renewable plan eligibility, YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you specify the special features that are included in the YouTube Premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: What special features are included in the YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Special features of YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Could you provide more information on the family premium plan as part of the renewable plan for YouTube Premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: What information can you provide about the family premium plan of YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Information on family premium plan, YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you clarify if there are discrepancies between the free trial plan and the normal premium plan of YouTube Premium upgrade available at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Are there discrepancies between the free trial plan and the normal premium plan of YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Discrepancies between free trial and normal premium, YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you inform me about the details to provide when buying the free trial plan of YouTube Premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: What details should I provide when buying the free trial plan of YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Details to provide when buying free trial, YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Can you tell me the specifics I need to provide when purchasing the renewable plan for YouTube Premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: What specifics are needed to purchase the renewable plan of YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Specifics for purchasing renewable plan, YouTube Premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+True
+Chat: Could you please specify the safety of using the renewable plan of YouTube premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Is the renewable plan of YouTube premium upgrade at Galactic Premium Store safe?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: General
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+False
+Chat: Renewable plan safety at Galactic Premium Store for YouTube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Could you let me know the Galactic Premium Store's stance on refunds for YouTube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+True
+Chat: What is Galactic Premium Store's stance on YouTube premium upgrade refunds?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Galactic Premium Store YouTube premium upgrade refund stance?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Could you kindly detail the scope of the warranty coverage for YouTube premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+True
+Chat: What is covered under the warranty for YouTube premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Warranty coverage for YouTube premium upgrade at Galactic Premium Store?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Policy
+True
+Chat: Could you clarify the device allowance for youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: What is the device limit on a youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Youtube premium upgrade device allowance?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: May I know the effects of sharing an account on youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: What are the consequences of sharing an account on youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Consequences of account sharing on youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: May I know how mixed watch history affects ads on youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: How does mixed watch history affect ad personalization on youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Effect of mixed watch history on youtube premium upgrade ads?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Can I get details on the video quality options available on youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: What are the video quality options available on youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Video quality options on youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: May I inquire about the ability to view family members' history on youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Can you tell me if I can view other family members' history on youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Youtube premium upgrade family member history viewing?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: May I inquire about anything concerning other family members in the youtube premium upgrade plan?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Can you tell me about any features concerning other family members on youtube premium upgrade?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Youtube premium upgrade plan features for family members?
+Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+Expected Response:  
+Summary: Youtube Premium Upgrade
+
+Specific information: Usage
+True
+Chat: Could you please provide the name of the shop?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: What is the shop name?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: Name?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: Can you specify the Galactic Premium shop's years of experience in the field?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: How many years has Galactic Premium shop been in operation?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: Years of experience for Galactic Premium shop?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: Could you specify the payment methods available at the Galactic Premium shop?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: What are the ways to pay at Galactic Premium shop?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: Payment ways at Galactic Premium shop?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: Could you provide the online banking payment details for transactions with Galactic Premium?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: What are the details for online banking transactions at Galactic Premium?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: Online banking transaction details for Galactic Premium?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: Could you specify the Momo and Shopeepay wallet information for transactions at Galactic Premium?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: What's the info for making payments through Momo and Shopeepay at Galactic Premium?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: Momo and Shopeepay transaction info for Galactic Premium?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: Could you specify the warranty policy details for products at Galactic Premium?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: What are the details of the warranty policy at Galactic Premium?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Chat: Warranty policy details at Galactic Premium?
+Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+Expected Response:  
+Summary: Galactic Premiums information
+
+Specific information: General
+True
+Success: 204/210
