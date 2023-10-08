@@ -1,0 +1,24 @@
+1.	Pricing
+-	General : 289000VND anually
+-	Price for 1 month : doesnt sell 1 month
+-	Bulk purchase discount : no
+-	Bulk purchase available : no, because it is hard to guarantee the service for more than 1 year
+-	Price for retailer (1 year) : 200000 VND 
+-	Bulk purchase discount for retailer : no
+2.	General
+-	How it works : customer’s account will be added to a family plan
+-	Plan using : highest plan
+-	Able to stream / download highest music quality : yes
+-	Able to save unlimited playlist : yes
+3.	Usage
+-	Device allowed : 1 at a time, as spotify policy
+-	Use on TV : yes
+-	Share with friends : yes, but not recommened as can only be used 1 device at a time
+-	View other member in the family’s playlist : no
+-	Use all spotify’s feature just like a personal plan : yes
+4.	Policy
+-	Error : quite often, 1 in 2-3 month 
+-	If there’s an error : customer can choose to wait for admin to fix (about 1-2 days) or get a refund
+-	Refund : Yes, if customer wants to (but only when theres an error) 
+-	Refund policy : the rest of the usage time (No refund for the days that has passed)
+-	Warranty : 1 on 1, admin will fix if there’s any error.

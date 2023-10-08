@@ -1,0 +1,22 @@
+1.	Pricing
+-	General : 75000 VND for 1 month or 210000 VND for 3 month
+-	Price for 1 month : 75000 VND
+-	Price for 3 month : 210000 VND
+-	Price for retailer : 65000 VND / month
+-	Bulk purchase discount for retailer : no
+-	Customer want to buy 6,12 months : possible, but same rate as 3 month
+2.	General 
+-	Shared slot plan : premium (highest plan)
+-	Able to watch 4k ultraHD : yes
+-	Able to download : yes
+3.	Usage
+-	Device allowed : 1
+-	Use on TV : yes
+-	Share with friends : not allowed
+-	Profile allowed in 5 available slot : 1 
+-	Use other’s profile : no
+-	Able to set password to your own profile : yes
+4.	Policy  
+-	Error : Very rare, most stable product
+-	refund : no
+-	1 on 1 exchange  (when error) : yes

@@ -22,3 +22,10 @@ async def create_chat_message(input: CreateChatMessage, db: Session = Depends(ge
     resp = chat.langchain_response_message(db, msg.id)
     return resp
     # return ResponseMessage(id=resp.id, message=resp.response, created_at=resp.created_at.strftime("%Y-%m-%d %H:%M:%S"))
+
+@router.post("/openai35")
+async def create_chat_message(input: CreateChatMessage, db: Session = Depends(get_db)):
+    msg = chat.create_chat_message(db, 2, input)
+    resp = chat.gpt35_response_message(db, msg.id)
+    return resp
+    # return ResponseMessage(id=resp.id, message=resp.response, created_at=resp.created_at.strftime("%Y-%m-%d %H:%M:%S"))

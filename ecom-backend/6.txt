@@ -1,0 +1,30 @@
+1.	Pricing
+-	Can i have youtube premium upgrade price : 89000 VND/4 month free trial or220000 VND – 400000 VND for 6 – 12 month of renewable plan. Free trial only works for emails that has never used trial before.
+-	Price for 4 month free trial : 89000 VND
+-	Price for 6 month (renewable) : 220000 VND
+-	Price for 1 year (renewable) : 400000 VND
+-	Price for retailer, 4 month free trial : 35000 VND
+-	Price for retailer, 6 month (renewable) : 120000 VND
+-	Price for retailer, 1 year (renewable) : 220000 VND
+2.	General
+-	Plan available : 4 month free trial or renewable (6 month or 12 month)
+-	Free trial available for : accounts that never used free trial before only.
+-	Buying another free trial after the first 4 month ends : not available 
+-	Buying renewable plan after free trial : yes
+-	Renewable plan available for : everyone
+-	Benefits of youtube premium : no ads, premium quality, background music,...
+-	Renewable plan details : family premium plan
+-	Free trial plan vs normal premium plan : no different, can use all benefit
+-	When buy free trial plan : need to provide admin with email and password of the account
+-	When buy renewable plan : Only need to provide admin with email
+3.	Usage
+-	Device allowed : unlimited
+-	Sharing account with friends : possible, but not recommened as watch history would be mixed.
+-	Why mixed watch history bad : youtube use that to personallize content, ads...
+-	Able to stream / download highest video quality : yes
+-	View other member in the family’s history : no
+-	Anything related to other member in the family plan : no
+4.	Policy
+-	Error : free trial plan may get your account banned (use at your own risk). No error for renewable plan
+-	Refund : no 
+-	Warranty : 1 on 1 till the end of the subsription

@@ -124,3 +124,107 @@ def langchain_response_message(session: Session, chat_id: int) -> Chat:
         session.commit()
         session.refresh(chat)
         return chat
+
+
+def gpt35_response_message(session, chat_id) -> Chat:
+    chat = session.query(Chat).filter(Chat.id == chat_id).first()
+
+    FIRST_PROMPT = open("1.txt", "r").read()
+
+    SECOND_PROMPT = open("2.txt", "r").read()
+
+    first_response = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {
+                "role": "system",
+                "content": FIRST_PROMPT
+            },
+            {
+                "role": "user",
+                "content": chat.content
+            }
+        ],
+    )
+
+    first_response = first_response.choices[0].message.content
+    if (first_response == "No" or first_response == "No."):
+        prompt = open("3.txt", "r").read()
+        second_response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "system",
+                    "content": prompt
+                },
+                {
+                    "role": "user",
+                    "content": chat.content
+                }
+            ]
+        )
+        second_response = second_response.choices[0].message.content
+        # chat.prompt = prompt
+        chat.response = second_response
+        session.commit()
+        session.refresh(chat)
+        return chat
+
+    first_response = [x.lower() for x in first_response]
+    first_response = ''.join(first_response)
+    if ("yes" in first_response):
+        shop_info = open("7.txt", "r").read()
+        prompt = shop_info
+        second_response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "system",
+                    "content": prompt
+                },
+                {
+                    "role": "user",
+                    "content": chat.content
+                }
+            ]
+        )
+        second_response = second_response.choices[0].message.content
+        # chat.prompt = prompt
+        chat.response = second_response
+        session.commit()
+        session.refresh(chat)
+        return chat
+
+    file = None
+
+    products = ["spotify premium upgrade",
+                "netflix shared slot", "youtube premium upgrade"]
+    if products[0] in first_response:
+        file = open("5.txt", "r")
+    elif products[1] in first_response:
+        file = open("4.txt", "r")
+    elif products[2] in first_response:
+        file = open("6.txt", "r")
+    else:
+        file = open("3.txt", "r")
+    prompt = SECOND_PROMPT.replace("{Summary}", first_response).replace(
+        "{Specific infos}", file.read())
+    second_response = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {
+                "role": "system",
+                "content": prompt
+            },
+            {
+                "role": "user",
+                "content": chat.content
+            }
+        ]
+    )
+    second_response = second_response.choices[0].message.content
+    # chat.prompt = prompt
+    chat.response = second_response
+    session.commit()
+    session.refresh(chat)
+    return chat
